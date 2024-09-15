@@ -1,0 +1,19 @@
+
+let a = 'red';
+let b = 'blue';
+
+console.log('');
+console.log('original values');
+console.log(a);
+console.log(b);
+
+//swapping values
+
+let c = a;
+a = b;
+b = c;
+
+console.log('');
+console.log('swapping values');
+console.log(a);
+console.log(b);
